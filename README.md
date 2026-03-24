@@ -59,8 +59,6 @@ Edit `src/config.py` to customize:
 - SNR: 27.7 dB (imperceptible)
 - PESQ: 4.45 (excellent quality)
 - BER: 0.17 (with 5x repetition coding)
-- Tamper Detection: 100%
-- Voiced Frame Accuracy: 65.2%
 
 ## Project Structure
 
